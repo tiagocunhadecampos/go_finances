@@ -1,0 +1,6 @@
+module Pods_gofinances {
+  umbrella header "Pods-gofinances-umbrella.h"
+
+  export *
+  module * { export * }
+}

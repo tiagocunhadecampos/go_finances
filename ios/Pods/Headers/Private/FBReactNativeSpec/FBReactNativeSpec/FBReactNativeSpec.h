@@ -1,0 +1,1 @@
+../../../../../../node_modules/react-native/React/FBReactNativeSpec/projetos/gofinances-ignite-main/node_modules/react-native/React/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h
