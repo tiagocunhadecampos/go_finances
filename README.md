@@ -62,3 +62,8 @@
 
 <br>
 
+Você vai me encontrar em qualquer uma das redes sociais abaixo:
+
+<a href = "mailto: tiagocdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-right="10px"></a>
+<a href="https://www.linkedin.com/in/tiagocunhadecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
