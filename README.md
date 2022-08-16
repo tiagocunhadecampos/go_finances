@@ -58,7 +58,7 @@
 
 <hr>
 
-> 🎮 Caso queira testar a aplicação em seu ANDROID acesse o link https://expo.dev/@tiago.campos/gofinances. Será necessário baixar o Expo Go no dispositivo.
+> 🎮 Caso queira testar a aplicação acesse o link https://expo.dev/@tiago.campos/gofinances. Será necessário baixar o Expo Go no dispositivo.
 
 <br>
 
