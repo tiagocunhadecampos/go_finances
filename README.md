@@ -3,6 +3,12 @@
 </a>
 <div align="justify">
 
+ <br>
+   <p>
+    <img width="400" height"200" src="assets/goFinances.png">
+  </p>
+<br>
+
 <hr>
 
 > Desafio Final GoFinances
