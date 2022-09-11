@@ -1,5 +1,5 @@
 <h2 id="CHAPTERII">
-  🚀 IGNITE <a href="https://www.rocketseat.com.br/">Rocketseat
+  GoFinances
 </a>
 <div align="justify">
 
@@ -56,6 +56,12 @@
 > 🎮 Caso queira testar a aplicação acesse o link https://expo.dev/@tiago.campos/gofinances. Será necessário baixar o Expo Go no dispositivo.
 
 <br>
+
+## Executando o projeto
+
+*yarn install || npm install
+
+*expo start
 
 Você vai me encontrar em qualquer uma das redes sociais abaixo:
 
